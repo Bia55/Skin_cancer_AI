@@ -2,6 +2,7 @@
 
 Diagnosis of skin cancer using hierarchical neural networks and clinical metadata.
 Code for the 2 hierarchical models training and prediction, as well as, the predicition of mixed models (flat + hierarchicals).
+Models use images and clinical metadata simultaneously.
 
 DATASET: ISIC Challenge 2019 Dataset
 
