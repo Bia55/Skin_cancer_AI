@@ -12,6 +12,6 @@ DATASET: ISIC Challenge 2019 Dataset (25331 data).
 
 BUILT WITH:
 
-- Python 3.6
+- Python 3.8
 - Tensorflow Library
 - Pandas Library
