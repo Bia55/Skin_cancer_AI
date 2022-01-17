@@ -6,9 +6,9 @@ Models use images and clinical metadata simultaneously.
 
 DATASET: ISIC Challenge 2019 Dataset (25331 data).
 
-Training set: 20262 data.
+  - Training set: 20262 data.
 
-Validation set: 5069 data.
+  - Validation set: 5069 data.
 
 BUILT WITH:
 
